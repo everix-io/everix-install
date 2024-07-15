@@ -9,7 +9,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [ 1.0.2 ] - 2024-07-15
 
-- Adds `Get-EverixControl` function
+- Adds `Get-EverixControl` function to list the installed versions and the currently used one
 - Adds LICENSE files
 - Adds better README.md and link to release notes in RELEASE.md
 

@@ -1,6 +1,6 @@
 @{
     RootModule        = 'Everix-Install.psm1'
-    ModuleVersion     = '1.0.1'
+    ModuleVersion     = '1.0.2'
     GUID              = 'a1af4558-82e6-4921-a0a4-faa53e6c3901'
     Author            = 'Everix'
     CompanyName       = 'Everix'
@@ -23,7 +23,7 @@
             Tags         = @('Everix', 'Installation')
 
             # A URL to the license for this module.
-            LicenseUri   = 'https://github.com/everix-io/everix-install/blob/main/LICENSE'
+            LicenseUri   = 'https://github.com/everix-io/everix-install/blob/main/Everix-Install/LICENSE'
 
             # A URL to the main website for this project.
             ProjectUri   = 'https://github.com/everix-io/everix-install'
@@ -32,12 +32,12 @@
             IconUri      = 'https://everix.io/wp-content/uploads/2021/03/cropped-Logo-Square-Only-1000_with-square-1-192x192.png'
 
             # ReleaseNotes of this module
-            ReleaseNotes = 'Initial release of Everix-Install module.'
+            ReleaseNotes = 'https://github.com/everix-io/everix-install/blob/main/Everix-Install/RELEASE.md'
         } # End of PSData hashtable
 
         # Other private data fields
     } # End of PrivateData hashtable
 
     # HelpInfo URI of this module
-    HelpInfoURI       = 'https://github.com/everix-io/everix-install/blob/main/README.md'
+    HelpInfoURI       = 'https://github.com/everix-io/everix-install/blob/main/Everix-Install/README.md'
 }
